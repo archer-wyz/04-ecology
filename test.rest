@@ -1,0 +1,6 @@
+### url shortener
+POST http://localhost:19091/shorten Content-Type: application/json
+
+{
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422"
+}
